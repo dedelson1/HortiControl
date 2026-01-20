@@ -1,6 +1,6 @@
 # 🌱 HortiControl
 
-O **HortiControl** é um projeto desenvolvido para a disciplina de **Sistemas de Informação**, com o objetivo de auxiliar no controle e gerenciamento de uma horta, permitindo o cadastro, consulta e organização das informações relacionadas ao sistema.
+O **HortiControl** é um projeto desenvolvido para a disciplina de **Sistemas de Informação**, com o objetivo de auxiliar no controle e gerenciamento de uma hortifruiti, permitindo o cadastro, consulta e organização das informações relacionadas ao sistema.
 
 ## 📚 Projeto Acadêmico
 Projeto desenvolvido para a disciplina de **Sistemas de Informação**  
